@@ -3,7 +3,7 @@ Wrote in python 3 by somebody who doesn't really know how to use python properly
 Uses numpy for probably no reason, but I couldn't figure out how lists work lol.
 
 # What it does
-The converter takes a number (p)_10 and turns it into (q)_n.
+The converter takes a number in base 10 and turns it into base n.
 
 For now it only does base 10 to base n. :/
 
